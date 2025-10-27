@@ -4,7 +4,7 @@
 
 wmsxwd（我们所向往的）自2018年开始运营，主打高性价比，采用SS/Trojan协议，节点包含香港、台湾、日本和美国等地区，解锁了Netflix、Disney+、Ma x、Hulu、TVB、Happyon、AbemaTV 等多种流媒体平台。
 
-官网：https://finalgo.xyz/xpUt4n
+官网：https://finalto.xyz/6fxKxi
 
 ## 二、wmsxwd我们所向往的特点
 

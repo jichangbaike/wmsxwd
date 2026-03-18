@@ -1,10 +1,10 @@
 # 我们所向往的（wmsxwd）官网注册入口说明与使用指南
 
-我们所向往的（wmsxwd）自 2018 年开始运营，主打高性价比，采用 SS / Trojan 协议，节点覆盖香港、台湾、日本和美国等地区，适用于访问海外网站、国际流媒体平台、云服务与 AI 工具等跨区域网络访问场景，并支持解锁 Netflix、Disney+、HBO Max、Hulu、TVB、Happyon、AbemaTV 等流媒体平台。
+我们所向往的（wmsxwd）自 2018 年开始运营，主打高性价比，采用 SS / Trojan / AnyTLS / Hysteria2协议，节点覆盖香港、台湾、日本和美国等地区，适用于访问海外网站、国际流媒体平台、云服务与 AI 工具等跨区域网络访问场景，并支持解锁 Netflix、Disney+、HBO Max、Hulu、TVB、Happyon、AbemaTV 等流媒体平台。
 
 > 本仓库用于整理我们所向往的机场的基础信息、协议支持情况、使用方式与价格参考，仅作信息整理与资料参考用途，不构成推荐或推广，请以官网实际公布为准。  
 > 本仓库不提供账号销售、代开、转租或任何形式的交易服务。  
-> 最后更新：2026-02-12
+> 最后更新：2026-03-17
 
 ---
 
@@ -35,7 +35,9 @@
 
 ## 三、下载测速和流媒体测试
 
-<img src="https://raw.githubusercontent.com/jichangbaike/wmsxwd/refs/heads/main/images/wmsxwd-test-20260211.png" alt="我们所向往的 wmsxwd 测速图">
+<img src="https://raw.githubusercontent.com/jichangbaike/wmsxwd/refs/heads/main/images/wmsxwd-test-20260318.png" alt="我们所向往的 wmsxwd 测速图">
+
+测试时间：2026-03-18，网络情况：电信 2Gbps
 
 ## 四、订阅获取与导入步骤
 
